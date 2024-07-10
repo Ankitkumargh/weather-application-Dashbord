@@ -23,3 +23,25 @@ Ensure you have Node.js and npm installed on your system. You can download them 
 ## Navigate to the Project Directory
 cd weather-dashboard
 
+## Install the Packages
+npm install
+
+
+## Run the Application
+
+npm start
+
+## Open the Application
+Open your browser and navigate to http://localhost:3000.
+
+## APIs Used
+- OpenWeather API: Provides weather data for the searched cities.
+- GeoDB Cities API: Supplies location data for cities worldwide.
+## Project Structure
+- src/components: Contains the React components used in the application.
+- src/assets: Stores static assets like images and icons.
+- src/utilities: Includes utility functions such as date and time formatting.
+## How to Use
+- Enter the name of a city in the search bar and press enter.
+- View the current weather and weekly forecast for the selected city.
+- The app will display the weather details, including temperature, wind speed, cloudiness, and humidity.
