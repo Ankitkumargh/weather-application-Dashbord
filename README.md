@@ -3,6 +3,7 @@ This Weather Dashboard Application is developed using React.js and Material-UI. 
 
 ## Features
 Display current weather conditions, including temperature, wind speed, cloudiness, and humidity.
+<br/>
 Show weekly weather forecasts for selected cities.
 Search functionality to find weather information for any city in the world.
 Responsive design that adapts to different screen sizes.
