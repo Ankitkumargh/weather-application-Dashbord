@@ -45,4 +45,4 @@ src/utilities: Includes utility functions such as date and time formatting.
 ## How to Use
 Enter the name of a city in the search bar and press enter.
 View the current weather and weekly forecast for the selected city.
-The app will display the weather details, including temperature, wind speed, cloudiness, and humidity.
+The app will display the weather details, including temperature, wind speed, cloudiness, and humidity.# weather-application-Dashbord
