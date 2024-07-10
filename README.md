@@ -19,3 +19,7 @@ Ensure you have Node.js and npm installed on your system. You can download them 
 1. **Clone the Repository**
    ```sh
    git clone https://github.com/your-username/weather-dashboard.git
+
+## Navigate to the Project Directory
+cd weather-dashboard
+
