@@ -1,5 +1,5 @@
  <img src="https://github.com/Ankitkumargh/weather-application-Dashbord/blob/main/Screenshot%202024-07-09%20214932.png" alt="">
-# Weather Dashboard Application
+## Weather Application Dashboard
 
 This Weather Dashboard Application is developed using React.js and Material-UI. It allows users to search for and view the current weather and weekly forecasts for cities around the world. The app uses the OpenWeather API for weather data and the GeoDB Cities API for location data.
 
